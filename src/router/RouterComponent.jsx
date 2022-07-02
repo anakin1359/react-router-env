@@ -25,8 +25,7 @@ export const RouterComponent = () => {
                         ))}
                     </Switch>
                 )}
-            >
-            </Route>
+            / >
 
             <Route
                 path="/page2"
@@ -43,8 +42,7 @@ export const RouterComponent = () => {
                         ))}
                     </Switch>
                 )}
-            >
-            </Route>
+            / >
         </Switch>
     )
 }
